@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "39613120",
+      "name": "保险箱",
+      "font_class": "a-baoxianxiangbaoguancaijing",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "39613121",
+      "name": "财经财物财产",
+      "font_class": "caijingcaiwucaichan",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "39613122",
+      "name": "财产安全",
+      "font_class": "a-caichananquancaijing",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "39613123",
+      "name": "投资理财",
+      "font_class": "a-caiwuzhuangkuangtouzilicai",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "39613124",
+      "name": "洞察力机会",
+      "font_class": "a-dongchalijihuishangwucaiwu",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "39613125",
+      "name": "快递物流货车",
+      "font_class": "a-disonghuowukuaidiwuliuhuochekache",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "39613126",
+      "name": "二维码支付码",
+      "font_class": "a-erweimazhifumashoukuanmacaiwu",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "39613127",
+      "name": "购物车购物",
+      "font_class": "a-gouwuchegouwu",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "39613129",
+      "name": "购物袋购物",
+      "font_class": "a-gouwudaigouwu",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "39613130",
+      "name": "关系网",
+      "font_class": "a-mubiaoguanxiwangshangwuzuchengjiegoucaiwu",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}
